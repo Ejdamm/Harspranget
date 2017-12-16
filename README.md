@@ -3,9 +3,9 @@ Harsprånget är en orienteringskarta ritad av:
 * Erik Sundberg 2008, 2013
 * Sven Lundbäck 2008, 2017
 
-Version: 1.1  
+Version: 1.3  
 Skala: 1:15000  
-Format: OCAD 8  
+Format: OCAD 9  
 Kartnorm: ISOM2000
 
 ## Underhåll
